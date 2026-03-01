@@ -4,6 +4,7 @@ import { RouterProvider } from "react-router/dom";
 import MainLayout from "../Layout/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import AllApplication from "../Pages/AllApplication";
+import Installation from "../Pages/Installation";
 
 
 
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
       {
         path: "allApplication",
         element: <AllApplication />,
+      },
+      {
+        path: "installation",
+        element: <Installation />,
       },
 
     ],

@@ -3,6 +3,7 @@ import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import MainLayout from "../Layout/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
+import AllApplication from "../Pages/AllApplication";
 
 
 
@@ -16,7 +17,11 @@ const router = createBrowserRouter([
         index: true,
         element: <Home />,
       },
-      
+      {
+        path: "allApplication",
+        element: <AllApplication />,
+      },
+
     ],
   },
 ]);

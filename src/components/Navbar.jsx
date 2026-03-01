@@ -101,7 +101,7 @@ const Navbar = () => {
                 <div className="navbar-end">
                     <div className='flex items-center gap-1 btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white'>
                         <FaGithub />
-                        <a href="http://github.com/Thesachindey" target='_blank' rel="noreferrer">Contribute</a>
+                        <a href="https://github.com/naeem1145" target='_blank' rel="noreferrer">Contribute</a>
                     </div>
                 </div>
             </div>

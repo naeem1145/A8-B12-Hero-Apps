@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/pjMFfXD4/6-Xe9-DWi-MC76daos-OC80-Im9gqe25-Q9-P55-Lx-JIGPTLbcd-Fk-MXOur4mk8j-TVxoq-Oai-Av-AG4-w480-h960-rw.webp",
+    "title": "Grammarly – AI Writing Assistant",
+    "companyName": "Grammarly, Inc.",
+    "description": "Grammarly is an advanced AI-powered writing assistant that helps users write clearly, effectively, and error-free across emails, documents, and social media. It checks for grammar, spelling, and punctuation mistakes while improving tone, vocabulary, and readability. Whether you're writing professionally or casually, Grammarly ensures your message always sounds confident and polished.",
+    "size": 20,
+    "reviews": 240000,
+    "ratingAvg": 4.1,
+    "downloads": 53000000,
+    "ratings": [
+      { "name": "1 star", "count": 39000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 24000 },
+      { "name": "5 star", "count": 165000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/LzPmqWz8/vaxx-IC1qa-XOd1q1hm-L7c66-N-Mp4-LXu-QIu-BZGM0d-PIbwmy-Wc-JAXbh-IIZ8h-NBWvar54c-j-w480-h960-rw.webp",
+    "title": "Notion: Notes, Tasks, AI",
+    "companyName": "Notion Labs, Inc.",
+    "description": "Notion is an all-in-one workspace where you can write notes, manage tasks, and organize projects seamlessly. With AI assistance built in, it helps you brainstorm ideas, summarize content, and automate daily workflows. Ideal for individuals and teams, Notion combines productivity and creativity in a clean, customizable interface.",
+    "size": 45,
+    "reviews": 138000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/3952SFS1/GK0-Sw-EBVql-FBp-Rk-Pj-Y6y-1go6-E6x-Zz-AN0-Ivzfgbuf28-J4-TTOo-Osg-Wnq-R4o-J-Rh-Ihsg-s96-rw.webp",
+    "title": "Todoist: To-Do List & Planner",
+    "companyName": "Doist Inc.",
+    "description": "Todoist helps you organize every aspect of your life and work with powerful task management tools. You can set priorities, add reminders, track goals, and collaborate with others in real time. Its clean interface and productivity insights make it one of the most trusted apps for getting things done efficiently.",
+    "size": 30,
+    "reviews": 279000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 165000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/20fynj9N/d-VQlfn-Q-Fp-w-Nf-Kv2e-I9-Xxb-Lym-V6o-GW-0yw-Iw3pxh-Yy-Khj-C0-Lk8y6-Ru-s-Uc1fq2ak-ADz-AN7-QWn8n-Pvcw.webp",
+    "title": "Evernote – Notes Organizer",
+    "companyName": "Evernote Corporation",
+    "description": "Evernote is a trusted note-taking and document organization tool designed for students, professionals, and creatives. You can capture ideas, clip web pages, and sync your notes across multiple devices. With features like document scanning, searchable handwriting, and task lists, it helps keep your digital workspace neatly organized.",
+    "size": 60,
+    "reviews": 180000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 57000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/8LTjyrKT/PH-2i-ORSf-Qs-iizo-Hze-PXBa-JCXml443pgo-C14-l-ZESLFIp78-A4-Svx-LKUVv1-Fy-IQFt-C8-s96-rw.webp",
+    "title": "Microsoft To Do",
+    "companyName": "Microsoft Corporation",
+    "description": "Microsoft To Do is a simple yet powerful daily planner app that helps you manage tasks and stay productive. It integrates seamlessly with Outlook and Microsoft 365, letting you plan your day, set reminders, and track progress across devices. Whether for work or personal goals, To Do keeps you focused and organized.",
+    "size": 25,
+    "reviews": 400000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 225000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/B5bdW4kh/Tt-6-Za-QDUAjf-SNSe-Lz4-Xy-Yk-Ps-EQf-VVp0l-Btwrnuyqubh-Cna0-LKu5-OZx-Kgeg-BJIr-Ehz8.png",
+    "title": "Trello: Manage Team Projects",
+    "companyName": "Atlassian",
+    "description": "Trello makes team collaboration and project tracking easy through its intuitive board-and-card system. You can assign tasks, add deadlines, attach files, and track workflow progress in real time. Its visual layout helps teams of any size plan, prioritize, and execute projects efficiently.",
+    "size": 35,
+    "reviews": 170000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 75000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/XNwjsvz/C-K5-UKRddgr-Cj-Kne5-Ds-BBXVfp7-B1-Aq-Jc-Zw-Tt5e-Jt4-b4-Hl5rt3t-Jq-Narf6-X-5-K2p-Lw-s96-rw.webp",
+    "title": "Clockify Time Tracker",
+    "companyName": "COING Inc.",
+    "description": "Clockify is a free and feature-rich time tracking app designed for teams and freelancers. It allows you to log hours, monitor productivity, and generate detailed timesheets and reports. Whether managing client projects or personal work sessions, Clockify ensures you stay on top of your time and budget.",
+    "size": 28,
+    "reviews": 42000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/B541Jh1t/SWb-S8z3-Nq-FVHCEQc-6l-ZDd-Dj5q-PGr-WSK8h-EWRSPHYm9s8958y6n-Tno-Lol-VHXlg-Kf-Xw-s96-rw.webp",
+    "title": "Asana: Work Manager",
+    "companyName": "Asana, Inc.",
+    "description": "Asana is a powerful work management platform that helps teams plan, organize, and execute projects. You can set priorities, assign responsibilities, and visualize workflows using lists, boards, or timelines. With built-in automation and integrations, Asana keeps your team aligned and productive.",
+    "size": 32,
+    "reviews": 89000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 43000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/h1CySgZ6/mz-Jp-TCs-TW-Fu-R6-Yq-OPa-LHr-SEVCSJu-Xz-Cljdxn-CKh-VZMcu6-EESZBQTCHx-Mh8sl-Vtn-Kqo-w480-h960-rw.webp",
+    "title": "Slack",
+    "companyName": "Slack Technologies, LLC",
+    "description": "Slack is a real-time messaging platform that transforms how teams communicate and collaborate. It brings all conversations, files, and tools into one place with organized channels and powerful integrations. Whether working remotely or in-office, Slack helps teams stay connected and efficient.",
+    "size": 70,
+    "reviews": 950000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 380000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/27KNtphL/thumb.jpg",
+    "title": "Zoom – One Platform to Connect",
+    "companyName": "Zoom Video Communications, Inc.",
+    "description": "Zoom is a leading video conferencing platform used globally for meetings, webinars, and virtual collaboration. It offers high-quality video, screen sharing, breakout rooms, and recording options. Perfect for remote work, education, and personal use, Zoom keeps people connected anytime, anywhere.",
+    "size": 80,
+    "reviews": 16000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 8200000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/27qNp9Fx/images-q-tbn-ANd9-Gc-QA7-YAZ-5-W2-SI8-CJYFovxnnd-F2-GY3-X-h-F5-Bg-s.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "description": "ChatGPT is an advanced AI assistant designed to help with learning, creativity, and everyday productivity. It can answer questions, draft emails, write essays, code, and even brainstorm ideas. Powered by OpenAI’s GPT technology, ChatGPT delivers intelligent and human-like conversations to make your tasks easier and faster.",
+    "size": 65,
+    "reviews": 2000000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1370000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/VWDJQCD6/9-U1-Zbu7jlryfcgwv-WHul-Hzjlg-MVj-Oy-S4r-IATr-F0b6-Qd-VR-5yftp0d-QBfi-Q5-Psjg-w480-h960-rw.webp",
+    "title": "ClickUp – Task Management",
+    "companyName": "Mango Technologies, Inc.",
+    "description": "ClickUp unifies all your work in one place with tools for tasks, goals, documents, and time tracking. It’s designed for teams of any size to plan, collaborate, and stay productive. With extensive customization options and automation, ClickUp adapts to your workflow rather than the other way around.",
+    "size": 55,
+    "reviews": 76000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/WvWbCjrT/z-VNXJtt-U2h-CZQtdh-QHr-MHb-Qx7zbh7gan-OE6-YPb-E0-Kypi-TXNhg-Ec-P4c-P2-NMz7c-Cln4-Q-w480-h960-rw.webp",
+    "title": "Monday.com – Work Management",
+    "companyName": "monday.com",
+    "description": "Monday.com is a versatile work management system that helps teams plan, track, and deliver projects efficiently. You can visualize workflows, automate repetitive tasks, and monitor progress in real time. Its colorful and intuitive interface makes collaboration smoother and more transparent for everyone.",
+    "size": 60,
+    "reviews": 155000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 82000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/Txj0HGh4/LSnrg-WVfy-KTEp7z-LAWNd-Xukv-Ht0jv-H-Kmn-Aj-TV6c-VJWXau-W4-K8i-FX4l-I0-MYY3dr-Qp-Auc-s96-rw.webp",
+    "title": "Miro: Online Whiteboard",
+    "companyName": "RealtimeBoard",
+    "description": "Miro is an interactive online whiteboard platform that empowers teams to brainstorm, plan, and collaborate visually. You can create mind maps, flowcharts, wireframes, and more—all in real time. Perfect for remote and hybrid teams, Miro transforms ideas into action with intuitive tools and templates.",
+    "size": 70,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/Pz6ZHZ0D/2nc3-YRZAC7-LZx4-WIuhm8-b-QKRi-Bk6-Zzi8sv8ds-NUlpqn-C6g-Qgt74-F0-Wx-Eb-KKTc-Xkx05-Myhb-Koh-V7f-Qj-Ly.webp",
+    "title": "Notability",
+    "companyName": "Ginger Labs",
+    "description": "Notability is a top-rated note-taking app that combines handwriting, sketching, and PDF annotation in one seamless experience. You can record audio while taking notes, organize subjects, and sync everything across devices. It’s ideal for students, professionals, and creatives who need flexibility and precision in their workflow.",
+    "size": 85,
+    "reviews": 180000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 116000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/whxqMbPD/vik-Jl-N6-e-LMUo-B-r9d-SIAU-Is-Yq-Lh07-By-HXEZXyag7-Lst-O4-Ju-Ta1-BNQ815-X-gc-Cl-Wl8-w480-h960-rw.webp",
+    "title": "Everhour – Time Tracker",
+    "companyName": "Weavora Ltd.",
+    "description": "Everhour is a smart time tracking and productivity management tool built for teams and businesses. It lets you log hours, monitor budgets, and generate accurate reports that integrate with tools like Asana and Trello. With detailed insights and transparency, Everhour ensures projects stay on schedule and within budget.",
+    "size": 40,
+    "reviews": 21000,
+    "ratingAvg": 4.5,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 12200 }
+    ]
+  }
+]

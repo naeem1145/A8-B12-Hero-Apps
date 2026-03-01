@@ -2,6 +2,7 @@ import Home from "../Pages/Home"
 import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import MainLayout from "../Layout/MainLayout";
+import ErrorPage from "../Pages/ErrorPage";
 
 
 
